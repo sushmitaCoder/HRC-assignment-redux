@@ -1,2 +1,2 @@
 # HRC-assignment-redux
-Created with CodeSandbox
+React-Redux example app.
